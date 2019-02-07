@@ -1,0 +1,54 @@
+* {
+	font-family: 'Inconsolata', monospace;
+	margin: 0 auto;
+}
+
+.blue-color {
+	color: #1100ff;
+}
+
+br {
+	padding: 10px;
+}
+
+.header {
+	padding: 40px 0px 40px 0px;
+}
+
+#name {
+	color: black;
+	text-decoration: none;
+	display:block;
+}
+
+#div-nav-items {
+	display: inline;
+}
+
+#ul-nav-items li {
+	display: inline;
+}
+
+#div-proj-items {
+
+}
+
+#ul-proj-items {
+	list-style-type: none; 
+}
+
+.contact-form-wrapper {
+	text-align: center; 
+}
+
+#fsubject {
+	height: 100px;
+	width: 300px;
+}
+
+#fsubmit {
+	outline: none;
+	border-radius: 30px;
+	background-color: white;
+	color: blue;
+}
