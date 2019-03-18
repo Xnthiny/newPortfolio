@@ -1,6 +1,7 @@
 * {
 	font-family: 'Inconsolata', monospace;
 	margin: 0 auto;
+	max-width: 1140px;
 }
 
 .blue-color {
@@ -33,7 +34,7 @@ br {
 
 }
 
-#ul-proj-items {
+#ul-proj-items, #ul-serv-items {
 	list-style-type: none; 
 }
 
@@ -42,8 +43,14 @@ br {
 }
 
 #fsubject {
-	height: 100px;
+	width: 610px;
+	height: 150px;
+	display: inline;
+}
+
+#fname, #femail {
 	width: 300px;
+	display: inline;
 }
 
 #fsubmit {
